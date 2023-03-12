@@ -1,2 +1,2 @@
-# Game_Python
+# This is a small project: Tic-tac-toe
  
