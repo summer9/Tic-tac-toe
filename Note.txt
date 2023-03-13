@@ -1,0 +1,4 @@
+1. Draft code
+2. Test and fix
+3. Push (however did not find out way to push by command --> add latest file)
+4. Know how to use command to push file from local to Github
